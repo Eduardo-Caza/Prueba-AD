@@ -2,7 +2,7 @@ import java.net.*;
 import java.util.Scanner;
 
 public class ClienteUDP {
-    private static final String HOST = "172.29.39.192";  // Dirección del servidor (localhost para el mismo computador)
+    private static final String HOST = "172.29.39.192";  // Dirección del servidor 
     private static final int PUERTO = 3001;  // Puerto donde el servidor está escuchando
 
     public static void main(String[] args) {
